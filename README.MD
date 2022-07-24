@@ -1,4 +1,7 @@
-# Master's Thesis - Mark Pal
+# Master's Thesis Cleaned version - Mark Pal
+**Warning**
+This is a stripped down version of the original project. The project history was deleted from this, along with proprietary files from Spinbotics. This project/repository contains only files written by me, or open-source libraries.
+The project is still functional - the simulation still works, as before. Only files needed to communicate with the real hardware were removed.
 
 ## BotSimulation
 To run the simulation, a virtual environment should be created. Before running the following commands, the file `logging.py` must be changed to a different name - the keyword `logging` interferes with pip or venv, and the virtual environment can't be created, while a file exists in the directory with this name. After creation and when the required packages are installed, the file can be changed back to it's original name.
